@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>DSC106 - Final Project</title>
+        <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" crossorigin="anonymous">
+        <link rel="stylesheet" href="./style/proj.css" type="text/css"/>
+        <link href="https://fonts.googleapis.com/css?family=Montserrat%7CPaytone+One&display=swap" rel="stylesheet" />
+    </head>
+    <body id="top">
+        <header>
+            <h1>Exploring Drug Use Statistics</h1>
+            <div id="parent" class="intro">
+                <div id="left" class="intro-description">
+                    <p>
+                        Whatever we may think about it, positive or negative, drug usage in its numerous forms is a deeply
+                        integrated activity in many social settings and individual lives throughout the world.
+                    </p>
+                    <p>
+                        People have tried and failed to exponge the issue as a whole, pointing us in the clear direction that
+                         rather than fight it's existence, we must manage it's impacts. However, before we take such action, 
+                         we must gather our information more completely.
+                    </p>
+                    <p>
+                        Here, we present some statistical graphics to help us better understand the issue we intend to address.
+                    </p>
+                    <button id="button" class="button-success pure-button" type = "button" onclick="scrollToNext('bubble')" style = "align-content: center;">See More</button>
+                    <br>
+                    <br>
+                </div>
+                <div id="right" class="intro-description">
+                    <a href="default.asp"><img src="./images/drug image.png" alt="drug image" style="width:200%;height:200%;"></a>
+                </div>
+            </div>
+        </header>
+        <br>
+        <br>
+        <br>
+        <br>
+        <main>
+            <div id="bubble"></div>
+            <br>
+            <br>
+        <br>
+        <br>
+        <br>
+            <br>
+            <div id="highcharts-Bubble"></div>
+            <br>
+            <div id="parent">
+                <div id="left">
+                    <p>In this image we learn that unfortunately, drug deaths are in issue throughout the world. People have 
+                            overdone their drug usage beyond what is responsible, reasonable, or safe.
+                    </p>
+                    <br>
+                    </div>
+                    <br>
+                    <div id="right">
+                        <button id="button" class="button-success pure-button" type = "button" onclick="scrollToNext('polar')">See More</button>
+                    </div>
+            </div>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <div id="polar"></div>
+            <br>
+            <div id="highcharts-Polar"></div>
+            <br>
+            <div id="parent">
+                <div id="left">
+                        <p>This graphic shows us how trends of drug use across major countries have performed from 
+                            1990 to 2017. We can see a clear rise in usage, including America. This is a sign that 
+                            programs and policies should be in place to account for this growing population.
+                        </p>
+                </div>
+                <br>
+                <div id="right">
+                    <button id="button" class="button-success pure-button" type = "button" onclick="scrollToNext('map')">See More</button>
+                </div>
+            </div>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br><div id="map"></div>
+            <br>
+            <br>
+        <br>
+        <br>
+        <br>
+            <br>
+            <div id="highcharts-Map"></div>
+            <br>
+            <div id="parent">
+                <div id="left">
+                    <p>Taking a deeper look into how America has been impacted by an overall rise in drug usage, 
+                            this map shows us in what states drug usage is the most popular. As some might expect, 
+                            we see the highest number of drug users in states with the highest populations.
+                    </p>
+                </div>
+                <br>
+                <div id="right">
+                    <button id="button" class="button-success pure-button" type = "button" onclick="scrollToNext('bar')">See More</button>
+                </div>
+            </div>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <div id="bar"></div>
+            <br>
+            <br>
+        <br>
+        <br>
+        <br>
+            <div id="drugUse"></div>
+            <br>
+            <div id="parent">
+                <div id="left">
+                    <p>Now that drug usage as a whole is established, we need to figure out what substances specifically 
+                        are being used. This way we can get a better idea of what kinds of medical involvement, 
+                        rehabilitation, or supervised consumption might be useful. Feel free to toggle 
+                        certain substances on and off if you are more interested in a specific subset of substances.
+                    </p>
+                </div>
+                <br>
+                <div id="right">
+                    <button id="button" class="button-success pure-button" type = "button" onclick="scrollToNext('pie')">See More</button>
+                </div>
+            </div>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <div id="pie"></div>
+            <br>
+            <br>
+            <div id="parent">
+                <div id="left" class="pieStyle">
+                    <div id="drugsByAge"></div>
+                </div>
+                <div id="right">
+                    <h4>Age Groups</h4>
+                    <form>
+                    <input type="radio" name = "age" onclick="changePie('12-13')">
+                    <label for="other">12-13</label>
+                    <input type="radio" name = "age" onclick="changePie('14-15')">
+                    <label for="other">14-15</label><br>
+                    <input type="radio" name = "age" onclick="changePie('16-17')">
+                    <label for="other">16-17</label>
+                    <input type="radio" name = "age" onclick="changePie('18-19')">
+                    <label for="other">18-19</label><br>
+                    <input type="radio" name = "age" onclick="changePie('20-21')">
+                    <label for="other">20-21</label>
+                    <input type="radio" name = "age" onclick="changePie('22-23')">
+                    <label for="other">22-23</label><br>
+                    <input type="radio" name = "age" onclick="changePie('24-25')">
+                    <label for="other">24-25</label>
+                    <input type="radio" name = "age" onclick="changePie('26-29')">
+                    <label for="other">26-29</label><br>
+                    <input type="radio" name = "age" onclick="changePie('30-34')">
+                    <label for="other">30-34</label>
+                    <input type="radio" name = "age" onclick="changePie('35-49')">
+                    <label for="other">35-49</label><br>
+                    <input type="radio" name = "age" onclick="changePie('50-64')">
+                    <label for="other">50-64</label>
+                    <input type="radio" name = "age" onclick="changePie('65+')">
+                    <label for="other">65+</label>
+                    </form>
+                </div>
+            </div>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <div id="parent">
+                <div id="left">
+                    <p>While we previously looked at trends over the ages, now we take a look at the distribution of 
+                        substances over each specific age group. This should give us a better idea of what issues 
+                        support programs may encounter.
+                    </p>
+                </div>
+                <br>
+                <div id="right">
+                    <button id="button" class="button-success pure-button" type = "button" onclick="scrollToNext('drugsByGender')">See More</button>
+                </div>
+            </div>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <div id="area"></div>
+            <div id="drugsByGender"></div>
+            <br>
+            <div id="parent">
+                <div id="left">
+                    <p>While age is certainly one important factor, we also find that gender also reveals some difference 
+                        in how common certain problems are. This graphic shows us that drug disorders appear to be more 
+                        frequent in males than females.
+                    </p>
+                </div>
+                <div id="right">
+                    <button id="button" class="button-success pure-button" type = "button" onclick="scrollToTop()">Back to Top</button>
+                </div>
+            </div>
+            <br>
+            <div id="end">
+                <p>
+                    While we do not present any particular course of action at this time, it is our hope 
+                    that this information be used to help inform both policy makers and voters alike about 
+                    the true impact and prevalence of drug usage in the United States.
+                </p>
+            </div>
+            <br>
+            <i>Written by Derek Leung and Nikitha Gopal</i>
+        </main>
+        <section>
+        </section>
+        <script src="https://code.highcharts.com/highcharts.js"></script>
+        <script src="https://code.highcharts.com/highcharts-more.js"></script>
+        <script src="https://code.highcharts.com/modules/exporting.js"></script>
+        <script src="https://code.highcharts.com/modules/export-data.js"></script>
+        <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+        <script src="https://code.highcharts.com/modules/heatmap.js"></script>
+        <script src="https://code.highcharts.com/modules/tilemap.js"></script>
+        <script type="text/javascript" src="./scripts/proj.js" defer></script>
+    </body>
+</html>
+ 

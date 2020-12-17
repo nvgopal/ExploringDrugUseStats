@@ -1,0 +1,260 @@
+[
+ {
+   "FIELD1": 160,
+   "Entity": "South Africa",
+   "Code": "ZAF",
+   "value": -24
+ },
+ {
+   "FIELD1": 168,
+   "Entity": "Switzerland",
+   "Code": "CHE",
+   "value": -18
+ },
+ {
+   "FIELD1": 141,
+   "Entity": "Puerto Rico",
+   "Code": "PRI",
+   "value": -12
+ },
+ {
+   "FIELD1": 122,
+   "Entity": "Netherlands",
+   "Code": "NLD",
+   "value": -11
+ },
+ {
+   "FIELD1": 86,
+   "Entity": "Italy",
+   "Code": "ITA",
+   "value": -8
+ },
+ {
+   "FIELD1": 138,
+   "Entity": "Philippines",
+   "Code": "PHL",
+   "value": -4
+ },
+ {
+   "FIELD1": 37,
+   "Entity": "China",
+   "Code": "CHN",
+   "value": -3
+ },
+ {
+   "FIELD1": 48,
+   "Entity": "Denmark",
+   "Code": "DNK",
+   "value": 2
+ },
+ {
+   "FIELD1": 68,
+   "Entity": "Greece",
+   "Code": "GRC",
+   "value": 2
+ },
+ {
+   "FIELD1": 44,
+   "Entity": "Cuba",
+   "Code": "CUB",
+   "value": 3
+ },
+ {
+   "FIELD1": 144,
+   "Entity": "Russia",
+   "Code": "RUS",
+   "value": 4
+ },
+ {
+   "FIELD1": 137,
+   "Entity": "Peru",
+   "Code": "PER",
+   "value": 5
+ },
+ {
+   "FIELD1": 112,
+   "Entity": "Mexico",
+   "Code": "MEX",
+   "value": 6
+ },
+ {
+   "FIELD1": 88,
+   "Entity": "Japan",
+   "Code": "JPN",
+   "value": 8
+ },
+ {
+   "FIELD1": 77,
+   "Entity": "Honduras",
+   "Code": "HND",
+   "value": 8
+ },
+ {
+   "FIELD1": 80,
+   "Entity": "India",
+   "Code": "IND",
+   "value": 8
+ },
+ {
+   "FIELD1": 30,
+   "Entity": "Cambodia",
+   "Code": "KHM",
+   "value": 9
+ },
+ {
+   "FIELD1": 9,
+   "Entity": "Australia",
+   "Code": "AUS",
+   "value": 9
+ },
+ {
+   "FIELD1": 127,
+   "Entity": "North Korea",
+   "Code": "PRK",
+   "value": 9
+ },
+ {
+   "FIELD1": 7,
+   "Entity": "Argentina",
+   "Code": "ARG",
+   "value": 10
+ },
+ {
+   "FIELD1": 85,
+   "Entity": "Israel",
+   "Code": "ISR",
+   "value": 12
+ },
+ {
+   "FIELD1": 91,
+   "Entity": "Kenya",
+   "Code": "KEN",
+   "value": 12
+ },
+ {
+   "FIELD1": 51,
+   "Entity": "Dominican Republic",
+   "Code": "DOM",
+   "value": 13
+ },
+ {
+   "FIELD1": 25,
+   "Entity": "Brazil",
+   "Code": "BRA",
+   "value": 13
+ },
+ {
+   "FIELD1": 184,
+   "Entity": "United Kingdom",
+   "Code": "GBR",
+   "value": 13
+ },
+ {
+   "FIELD1": 62,
+   "Entity": "France",
+   "Code": "FRA",
+   "value": 13
+ },
+ {
+   "FIELD1": 182,
+   "Entity": "Ukraine",
+   "Code": "UKR",
+   "value": 14.000000000000002
+ },
+ {
+   "FIELD1": 66,
+   "Entity": "Germany",
+   "Code": "DEU",
+   "value": 15
+ },
+ {
+   "FIELD1": 89,
+   "Entity": "Jordan",
+   "Code": "JOR",
+   "value": 17
+ },
+ {
+   "FIELD1": 69,
+   "Entity": "Greenland",
+   "Code": "GRL",
+   "value": 18
+ },
+ {
+   "FIELD1": 53,
+   "Entity": "Egypt",
+   "Code": "EGY",
+   "value": 19
+ },
+ {
+   "FIELD1": 179,
+   "Entity": "Turkey",
+   "Code": "TUR",
+   "value": 21
+ },
+ {
+   "FIELD1": 82,
+   "Entity": "Iran",
+   "Code": "IRN",
+   "value": 22
+ },
+ {
+   "FIELD1": 163,
+   "Entity": "Spain",
+   "Code": "ESP",
+   "value": 26
+ },
+ {
+   "FIELD1": 32,
+   "Entity": "Canada",
+   "Code": "CAN",
+   "value": 26
+ },
+ {
+   "FIELD1": 150,
+   "Entity": "Saudi Arabia",
+   "Code": "SAU",
+   "value": 28.000000000000004
+ },
+ {
+   "FIELD1": 169,
+   "Entity": "Syria",
+   "Code": "SYR",
+   "value": 28.000000000000004
+ },
+ {
+   "FIELD1": 36,
+   "Entity": "Chile",
+   "Code": "CHL",
+   "value": 28.999999999999996
+ },
+ {
+   "FIELD1": 97,
+   "Entity": "Lebanon",
+   "Code": "LBN",
+   "value": 46
+ },
+ {
+   "FIELD1": 185,
+   "Entity": "United States",
+   "Code": "USA",
+   "value": 46
+ },
+ {
+   "FIELD1": 0,
+   "Entity": "Afghanistan",
+   "Code": "AFG",
+   "value": 48
+ },
+ {
+   "FIELD1": 183,
+   "Entity": "United Arab Emirates",
+   "Code": "ARE",
+   "value": 50
+ },
+ {
+   "FIELD1": 100,
+   "Entity": "Libya",
+   "Code": "LBY",
+   "value": 53
+ }
+]

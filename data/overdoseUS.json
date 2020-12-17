@@ -1,0 +1,401 @@
+[{
+    "hc-a2": "AL",
+    "name": "Alabama",
+    "region": "South",
+    "x": 6,
+    "y": 7,
+    "actVal": 775,
+    "adjVal": 16.6
+}, {
+    "hc-a2": "AK",
+    "name": "Alaska",
+    "region": "West",
+    "x": 0,
+    "y": 0,
+    "actVal": 110,
+    "adjVal": 4849377
+}, {
+    "hc-a2": "AZ",
+    "name": "Arizona",
+    "region": "West",
+    "x": 5,
+    "y": 3,
+    "actVal": 1670,
+    "adjVal": 23.8
+}, {
+    "hc-a2": "AR",
+    "name": "Arkansas",
+    "region": "South",
+    "x": 5,
+    "y": 6,
+    "actVal": 444,
+    "adjVal": 15.7
+}, {
+    "hc-a2": "CA",
+    "name": "California",
+    "region": "West",
+    "x": 5,
+    "y": 2,
+    "actVal": 5348,
+    "adjVal": 12.8
+}, {
+    "hc-a2": "CO",
+    "name": "Colorado",
+    "region": "West",
+    "x": 4,
+    "y": 3,
+    "actVal": 995,
+    "adjVal": 16.8
+}, {
+    "hc-a2": "CT",
+    "name": "Connecticut",
+    "region": "Northeast",
+    "x": 3,
+    "y": 11,
+    "actVal": 1069,
+    "adjVal": 30.7
+}, {
+    "hc-a2": "DE",
+    "name": "Delaware",
+    "region": "South",
+    "x": 4,
+    "y": 9,
+    "actVal": 401,
+    "adjVal": 43.8
+}, {
+    "hc-a2": "FL",
+    "name": "Florida",
+    "region": "South",
+    "x": 8,
+    "y": 8,
+    "actVal": 4698,
+    "adjVal": 22.8
+}, {
+    "hc-a2": "GA",
+    "name": "Georgia",
+    "region": "South",
+    "x": 7,
+    "y": 8,
+    "actVal": 1404,
+    "adjVal": 13.2
+}, {
+    "hc-a2": "HI",
+    "name": "Hawaii",
+    "region": "West",
+    "x": 8,
+    "y": 0,
+    "actVal": 213,
+    "adjVal": 14.3
+}, {
+    "hc-a2": "ID",
+    "name": "Idaho",
+    "region": "West",
+    "x": 3,
+    "y": 2,
+    "actVal": 250,
+    "adjVal": 14.6
+}, {
+    "hc-a2": "IL",
+    "name": "Illinois",
+    "region": "Midwest",
+    "x": 3,
+    "y": 6,
+    "actVal": 2722,
+    "adjVal": 21.3
+}, {
+    "hc-a2": "IN",
+    "name": "Indiana",
+    "region": "Midwest",
+    "x": 3,
+    "y": 7,
+    "actVal": 1629,
+    "adjVal": 25.6
+}, {
+    "hc-a2": "IA",
+    "name": "Iowa",
+    "region": "Midwest",
+    "x": 3,
+    "y": 5,
+    "actVal": 287,
+    "adjVal": 9.6
+}, {
+    "hc-a2": "KS",
+    "name": "Kansas",
+    "region": "Midwest",
+    "x": 5,
+    "y": 5,
+    "actVal": 345,
+    "adjVal": 12.4
+}, {
+    "hc-a2": "KY",
+    "name": "Kentucky",
+    "region": "South",
+    "x": 4,
+    "y": 6,
+    "actVal": 1315,
+    "adjVal": 30.9
+}, {
+    "hc-a2": "LA",
+    "name": "Louisiana",
+    "region": "South",
+    "x": 6,
+    "y": 5,
+    "actVal": 1140,
+    "adjVal": 25.4
+}, {
+    "hc-a2": "ME",
+    "name": "Maine",
+    "region": "Northeast",
+    "x": 0,
+    "y": 11,
+    "actVal": 345,
+    "adjVal": 27.9
+}, {
+    "hc-a2": "MD",
+    "name": "Maryland",
+    "region": "South",
+    "x": 4,
+    "y": 8,
+    "actVal": 2324,
+    "adjVal": 37.2
+}, {
+    "hc-a2": "MA",
+    "name": "Massachusetts",
+    "region": "Northeast",
+    "x": 2,
+    "y": 10,
+    "actVal": 2241,
+    "adjVal": 32.8
+}, {
+    "hc-a2": "MI",
+    "name": "Michigan",
+    "region": "Midwest",
+    "x": 2,
+    "y": 7,
+    "actVal": 2591,
+    "adjVal": 26.6
+}, {
+    "hc-a2": "MN",
+    "name": "Minnesota",
+    "region": "Midwest",
+    "x": 2,
+    "y": 4,
+    "actVal": 636,
+    "adjVal": 11.5
+}, {
+    "hc-a2": "MS",
+    "name": "Mississippi",
+    "region": "South",
+    "x": 6,
+    "y": 6,
+    "actVal": 310,
+    "adjVal": 10.8
+}, {
+    "hc-a2": "MO",
+    "name": "Missouri",
+    "region": "Midwest",
+    "x": 4,
+    "y": 5,
+    "actVal": 1610,
+    "adjVal": 27.5
+}, {
+    "hc-a2": "MT",
+    "name": "Montana",
+    "region": "West",
+    "x": 2,
+    "y": 2,
+    "actVal": 125,
+    "adjVal": 12.2
+}, {
+    "hc-a2": "NE",
+    "name": "Nebraska",
+    "region": "Midwest",
+    "x": 4,
+    "y": 4,
+    "actVal": 138,
+    "adjVal": 7.4
+}, {
+    "hc-a2": "NV",
+    "name": "Nevada",
+    "region": "West",
+    "x": 4,
+    "y": 2,
+    "actVal": 688,
+    "adjVal": 21.2
+}, {
+    "hc-a2": "NH",
+    "name": "New Hampshire",
+    "region": "Northeast",
+    "x": 1,
+    "y": 11,
+    "actVal": 452,
+    "adjVal": 35.8
+}, {
+    "hc-a2": "NJ",
+    "name": "New Jersey",
+    "region": "Northeast",
+    "x": 3,
+    "y": 10,
+    "actVal": 2900,
+    "adjVal": 33.1
+}, {
+    "hc-a2": "NM",
+    "name": "New Mexico",
+    "region": "West",
+    "x": 6,
+    "y": 3,
+    "actVal": 537,
+    "adjVal": 26.7
+}, {
+    "hc-a2": "NY",
+    "name": "New York",
+    "region": "Northeast",
+    "x": 2,
+    "y": 9,
+    "actVal": 3697,
+    "adjVal": 18.4
+}, {
+    "hc-a2": "NC",
+    "name": "North Carolina",
+    "region": "South",
+    "x": 5,
+    "y": 9,
+    "actVal": 2259,
+    "adjVal": 22.4
+}, {
+    "hc-a2": "ND",
+    "name": "North Dakota",
+    "region": "Midwest",
+    "x": 2,
+    "y": 3,
+    "actVal": 70,
+    "adjVal": 10.2
+}, {
+    "hc-a2": "OH",
+    "name": "Ohio",
+    "region": "Midwest",
+    "x": 3,
+    "y": 8,
+    "actVal": 3980,
+    "adjVal": 35.9
+}, {
+    "hc-a2": "OK",
+    "name": "Oklahoma",
+    "region": "South",
+    "x": 6,
+    "y": 4,
+    "actVal": 716,
+    "adjVal": 18.4
+}, {
+    "hc-a2": "OR",
+    "name": "Oregon",
+    "region": "West",
+    "x": 4,
+    "y": 1,
+    "actVal": 547,
+    "adjVal": 12.6
+}, {
+    "hc-a2": "PA",
+    "name": "Pennsylvania",
+    "region": "Northeast",
+    "x": 3,
+    "y": 9,
+    "actVal": 4415,
+    "adjVal": 36.1
+}, {
+    "hc-a2": "RI",
+    "name": "Rhode Island",
+    "region": "Northeast",
+    "x": 2,
+    "y": 11,
+    "actVal": 317,
+    "adjVal": 30.1
+}, {
+    "hc-a2": "SC",
+    "name": "South Carolina",
+    "region": "South",
+    "x": 6,
+    "y": 8,
+    "actVal": 1125,
+    "adjVal": 22.6
+}, {
+    "hc-a2": "SD",
+    "name": "South Dakota",
+    "region": "Midwest",
+    "x": 3,
+    "y": 4,
+    "actVal": 57,
+    "adjVal": 6.9
+}, {
+    "hc-a2": "TN",
+    "name": "Tennessee",
+    "region": "South",
+    "x": 5,
+    "y": 7,
+    "actVal": 1823,
+    "adjVal": 27.5
+}, {
+    "hc-a2": "TX",
+    "name": "Texas",
+    "region": "South",
+    "x": 7,
+    "y": 4,
+    "actVal": 3005,
+    "adjVal": 10.4
+}, {
+    "hc-a2": "UT",
+    "name": "Utah",
+    "region": "West",
+    "x": 5,
+    "y": 4,
+    "actVal": 624,
+    "adjVal": 21.2
+}, {
+    "hc-a2": "VT",
+    "name": "Vermont",
+    "region": "Northeast",
+    "x": 1,
+    "y": 10,
+    "actVal": 153,
+    "adjVal": 26.6
+}, {
+    "hc-a2": "VA",
+    "name": "Virginia",
+    "region": "South",
+    "x": 5,
+    "y": 8,
+    "actVal": 1448,
+    "adjVal": 17.1
+}, {
+    "hc-a2": "WA",
+    "name": "Washington",
+    "region": "West",
+    "x": 2,
+    "y": 1,
+    "actVal": 1164,
+    "adjVal": 14.8
+}, {
+    "hc-a2": "WV",
+    "name": "West Virginia",
+    "region": "South",
+    "x": 4,
+    "y": 7,
+    "actVal": 856,
+    "adjVal": 51.5
+}, {
+    "hc-a2": "WI",
+    "name": "Wisconsin",
+    "region": "Midwest",
+    "x": 2,
+    "y": 5,
+    "actVal": 1079,
+    "adjVal": 19.2
+}, {
+    "hc-a2": "WY",
+    "name": "Wyoming",
+    "region": "West",
+    "x": 3,
+    "y": 3,
+    "actVal": 66,
+    "adjVal": 11.1
+}]

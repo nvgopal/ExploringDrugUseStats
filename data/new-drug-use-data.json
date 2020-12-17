@@ -1,0 +1,1732 @@
+[
+ {
+   "FIELD1": 0,
+   "Continent": "Africa",
+   "Country": "Algeria",
+   "Entity": "Algeria",
+   "Code": "DZA",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 1010.678861741702,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 2035.223813246461
+ },
+ {
+   "FIELD1": 1,
+   "Continent": "Africa",
+   "Country": "Angola",
+   "Entity": "Angola",
+   "Code": "AGO",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 167.073060515091,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 836.5036453073869
+ },
+ {
+   "FIELD1": 2,
+   "Continent": "Africa",
+   "Country": "Benin",
+   "Entity": "Benin",
+   "Code": "BEN",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 97.86705951629362,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 263.6448482277721
+ },
+ {
+   "FIELD1": 3,
+   "Continent": "Africa",
+   "Country": "Botswana",
+   "Entity": "Botswana",
+   "Code": "BWA",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 26.133021133593818,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 167.45493818516292
+ },
+ {
+   "FIELD1": 4,
+   "Continent": "Africa",
+   "Country": "Burundi",
+   "Entity": "Burundi",
+   "Code": "BDI",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 28.337474635301017,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 163.10883120087553
+ },
+ {
+   "FIELD1": 5,
+   "Continent": "Africa",
+   "Country": "Cameroon",
+   "Entity": "Cameroon",
+   "Code": "CMR",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 547.2980642270287,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 1219.6922844089474
+ },
+ {
+   "FIELD1": 6,
+   "Continent": "Africa",
+   "Country": "Cape Verde",
+   "Entity": "Cape Verde",
+   "Code": "CPV",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 17.437172074491354,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 35.27930003649443
+ },
+ {
+   "FIELD1": 7,
+   "Continent": "Africa",
+   "Country": "Central African Republic",
+   "Entity": "Central African Republic",
+   "Code": "CAF",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 39.84263140545268,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 217.92895032833957
+ },
+ {
+   "FIELD1": 8,
+   "Continent": "Africa",
+   "Country": "Chad",
+   "Entity": "Chad",
+   "Code": "TCD",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 87.33804418603826,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 307.3734965965028
+ },
+ {
+   "FIELD1": 9,
+   "Continent": "Africa",
+   "Country": "Comoros",
+   "Entity": "Comoros",
+   "Code": "COM",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 3.6035314809443832,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 13.403985756303037
+ },
+ {
+   "FIELD1": 10,
+   "Continent": "Africa",
+   "Country": "Congo",
+   "Entity": "Congo",
+   "Code": "COG",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 70.76420302444566,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 280.1116714526046
+ },
+ {
+   "FIELD1": 11,
+   "Continent": "Africa",
+   "Country": "Djibouti",
+   "Entity": "Djibouti",
+   "Code": "DJI",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 6.573056526147079,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 25.941734394419175
+ },
+ {
+   "FIELD1": 12,
+   "Continent": "Africa",
+   "Country": "Egypt",
+   "Entity": "Egypt",
+   "Code": "EGY",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 111.00803006767376,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 2162.3745959984813
+ },
+ {
+   "FIELD1": 13,
+   "Continent": "Africa",
+   "Country": "Equatorial Guinea",
+   "Entity": "Equatorial Guinea",
+   "Code": "GNQ",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 10.348022134262203,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 53.09753876297057
+ },
+ {
+   "FIELD1": 14,
+   "Continent": "Africa",
+   "Country": "Eritrea",
+   "Entity": "Eritrea",
+   "Code": "ERI",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 45.37341809096056,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 153.31403925802843
+ },
+ {
+   "FIELD1": 15,
+   "Continent": "Africa",
+   "Country": "Ethiopia",
+   "Entity": "Ethiopia",
+   "Code": "ETH",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 275.84530303186114,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 1461.2397242420388
+ },
+ {
+   "FIELD1": 16,
+   "Continent": "Africa",
+   "Country": "Gabon",
+   "Entity": "Gabon",
+   "Code": "GAB",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 25.154193251820217,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 76.08443701803995
+ },
+ {
+   "FIELD1": 17,
+   "Continent": "Africa",
+   "Country": "Gambia",
+   "Entity": "Gambia",
+   "Code": "GMB",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 24.916924786156827,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 104.99156461472305
+ },
+ {
+   "FIELD1": 18,
+   "Continent": "Africa",
+   "Country": "Ghana",
+   "Entity": "Ghana",
+   "Code": "GHA",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 562.3777293831749,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 1556.2033944133955
+ },
+ {
+   "FIELD1": 19,
+   "Continent": "Africa",
+   "Country": "Guinea",
+   "Entity": "Guinea",
+   "Code": "GIN",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 112.89081697219505,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 361.0761430274365
+ },
+ {
+   "FIELD1": 20,
+   "Continent": "Africa",
+   "Country": "Guinea-Bissau",
+   "Entity": "Guinea-Bissau",
+   "Code": "GNB",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 22.352483326130365,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 79.76204610135936
+ },
+ {
+   "FIELD1": 21,
+   "Continent": "Africa",
+   "Country": "Kenya",
+   "Entity": "Kenya",
+   "Code": "KEN",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 149.17441613199247,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 3272.0594673953624
+ },
+ {
+   "FIELD1": 22,
+   "Continent": "Africa",
+   "Country": "Lesotho",
+   "Entity": "Lesotho",
+   "Code": "LSO",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 37.7734299918801,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 222.94350906260948
+ },
+ {
+   "FIELD1": 23,
+   "Continent": "Africa",
+   "Country": "Liberia",
+   "Entity": "Liberia",
+   "Code": "LBR",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 43.713055083093,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 142.72239620107382
+ },
+ {
+   "FIELD1": 24,
+   "Continent": "Africa",
+   "Country": "Libya",
+   "Entity": "Libya",
+   "Code": "LBY",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 561.3965104633667,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 873.7039314805075
+ },
+ {
+   "FIELD1": 25,
+   "Continent": "Africa",
+   "Country": "Madagascar",
+   "Entity": "Madagascar",
+   "Code": "MDG",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 74.84450093150072,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 544.3940717388415
+ },
+ {
+   "FIELD1": 26,
+   "Continent": "Africa",
+   "Country": "Malawi",
+   "Entity": "Malawi",
+   "Code": "MWI",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 70.50962607591069,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 372.3588375633041
+ },
+ {
+   "FIELD1": 27,
+   "Continent": "Africa",
+   "Country": "Mali",
+   "Entity": "Mali",
+   "Code": "MLI",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 85.3316160517252,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 453.7082715776461
+ },
+ {
+   "FIELD1": 28,
+   "Continent": "Africa",
+   "Country": "Mauritania",
+   "Entity": "Mauritania",
+   "Code": "MRT",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 38.00943945232873,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 87.43076059807598
+ },
+ {
+   "FIELD1": 29,
+   "Continent": "Africa",
+   "Country": "Mauritius",
+   "Entity": "Mauritius",
+   "Code": "MUS",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 17.654977092948673,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 104.81568894720863
+ },
+ {
+   "FIELD1": 30,
+   "Continent": "Africa",
+   "Country": "Morocco",
+   "Entity": "Morocco",
+   "Code": "MAR",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 663.8750727637623,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 1650.2332209148447
+ },
+ {
+   "FIELD1": 31,
+   "Continent": "Africa",
+   "Country": "Mozambique",
+   "Entity": "Mozambique",
+   "Code": "MOZ",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 277.2848443279317,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 1120.4558497410467
+ },
+ {
+   "FIELD1": 32,
+   "Continent": "Africa",
+   "Country": "Namibia",
+   "Entity": "Namibia",
+   "Code": "NAM",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 27.580518705512013,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 163.7654737697779
+ },
+ {
+   "FIELD1": 33,
+   "Continent": "Africa",
+   "Country": "Niger",
+   "Entity": "Niger",
+   "Code": "NER",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 77.7743309216065,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 227.62656351447845
+ },
+ {
+   "FIELD1": 34,
+   "Continent": "Africa",
+   "Country": "Nigeria",
+   "Entity": "Nigeria",
+   "Code": "NGA",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 2071.5093879682363,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 20350.109681880494
+ },
+ {
+   "FIELD1": 35,
+   "Continent": "Africa",
+   "Country": "Rwanda",
+   "Entity": "Rwanda",
+   "Code": "RWA",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 33.76693644333061,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 187.119770352324
+ },
+ {
+   "FIELD1": 36,
+   "Continent": "Africa",
+   "Country": "Sao Tome and Principe",
+   "Entity": "Sao Tome and Principe",
+   "Code": "STP",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 1.6650149321458163,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 5.499863093565566
+ },
+ {
+   "FIELD1": 37,
+   "Continent": "Africa",
+   "Country": "Senegal",
+   "Entity": "Senegal",
+   "Code": "SEN",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 128.4097932416768,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 341.8934230190387
+ },
+ {
+   "FIELD1": 38,
+   "Continent": "Africa",
+   "Country": "Seychelles",
+   "Entity": "Seychelles",
+   "Code": "SYC",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 0.8643909120387314,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 7.124749731809733
+ },
+ {
+   "FIELD1": 39,
+   "Continent": "Africa",
+   "Country": "Sierra Leone",
+   "Entity": "Sierra Leone",
+   "Code": "SLE",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 73.46793482608756,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 179.29408577854267
+ },
+ {
+   "FIELD1": 40,
+   "Continent": "Africa",
+   "Country": "Somalia",
+   "Entity": "Somalia",
+   "Code": "SOM",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 46.540411928038246,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 250.04032522336536
+ },
+ {
+   "FIELD1": 41,
+   "Continent": "Africa",
+   "Country": "South Africa",
+   "Entity": "South Africa",
+   "Code": "ZAF",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 719.5076842780018,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 5258.866827537073
+ },
+ {
+   "FIELD1": 42,
+   "Continent": "Africa",
+   "Country": "South Sudan",
+   "Entity": "South Sudan",
+   "Code": "SSD",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 18.99430712459376,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 156.98073887262697
+ },
+ {
+   "FIELD1": 43,
+   "Continent": "Africa",
+   "Country": "Sudan",
+   "Entity": "Sudan",
+   "Code": "SDN",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 433.31113321271766,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 1818.7040654014868
+ },
+ {
+   "FIELD1": 44,
+   "Continent": "Africa",
+   "Country": "Tanzania",
+   "Entity": "Tanzania",
+   "Code": "TZA",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 288.10285735454937,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 1484.2076249268146
+ },
+ {
+   "FIELD1": 45,
+   "Continent": "Africa",
+   "Country": "Togo",
+   "Entity": "Togo",
+   "Code": "TGO",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 104.53453194687698,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 298.4953339368082
+ },
+ {
+   "FIELD1": 46,
+   "Continent": "Africa",
+   "Country": "Tunisia",
+   "Entity": "Tunisia",
+   "Code": "TUN",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 223.6695398602808,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 600.8541882334399
+ },
+ {
+   "FIELD1": 47,
+   "Continent": "Africa",
+   "Country": "Uganda",
+   "Entity": "Uganda",
+   "Code": "UGA",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 104.96235168178421,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 275.18996294270363
+ },
+ {
+   "FIELD1": 48,
+   "Continent": "Africa",
+   "Country": "Zambia",
+   "Entity": "Zambia",
+   "Code": "ZMB",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 96.94778844536141,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 462.3751154924262
+ },
+ {
+   "FIELD1": 49,
+   "Continent": "Africa",
+   "Country": "Zimbabwe",
+   "Entity": "Zimbabwe",
+   "Code": "ZWE",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 255.80195002879884,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 1024.5409080039026
+ },
+ {
+   "FIELD1": 50,
+   "Continent": "Asia",
+   "Country": "Afghanistan",
+   "Entity": "Afghanistan",
+   "Code": "AFG",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 346.3390094484288,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 862.3019039917233
+ },
+ {
+   "FIELD1": 51,
+   "Continent": "Asia",
+   "Country": "Bahrain",
+   "Entity": "Bahrain",
+   "Code": "BHR",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 11.579395482734096,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 55.957276291587505
+ },
+ {
+   "FIELD1": 52,
+   "Continent": "Asia",
+   "Country": "Bangladesh",
+   "Entity": "Bangladesh",
+   "Code": "BGD",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 3215.5834159143697,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 4804.2674704444535
+ },
+ {
+   "FIELD1": 53,
+   "Continent": "Asia",
+   "Country": "Bhutan",
+   "Entity": "Bhutan",
+   "Code": "BTN",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 4.354534916127212,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 20.804033757709984
+ },
+ {
+   "FIELD1": 54,
+   "Continent": "Asia",
+   "Country": "Brunei",
+   "Entity": "Brunei",
+   "Code": "BRN",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 3.0171773252452594,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 16.984362498660868
+ },
+ {
+   "FIELD1": 55,
+   "Continent": "Asia",
+   "Country": "Cambodia",
+   "Entity": "Cambodia",
+   "Code": "KHM",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 56.74703715991726,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 491.50062339480536
+ },
+ {
+   "FIELD1": 56,
+   "Continent": "Asia",
+   "Country": "China",
+   "Entity": "China",
+   "Code": "CHN",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 22445.158125893522,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 129306.31971182596
+ },
+ {
+   "FIELD1": 57,
+   "Continent": "Asia",
+   "Country": "India",
+   "Entity": "India",
+   "Code": "IND",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 11154.808891833402,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 53281.22335645745
+ },
+ {
+   "FIELD1": 58,
+   "Continent": "Asia",
+   "Country": "Indonesia",
+   "Entity": "Indonesia",
+   "Code": "IDN",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 801.6824323171007,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 6837.092060273609
+ },
+ {
+   "FIELD1": 59,
+   "Continent": "Asia",
+   "Country": "Iran",
+   "Entity": "Iran",
+   "Code": "IRN",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 3389.219619445775,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 7021.533982960766
+ },
+ {
+   "FIELD1": 60,
+   "Continent": "Asia",
+   "Country": "Iraq",
+   "Entity": "Iraq",
+   "Code": "IRQ",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 523.5469493629013,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 1116.6060788701554
+ },
+ {
+   "FIELD1": 61,
+   "Continent": "Asia",
+   "Country": "Israel",
+   "Entity": "Israel",
+   "Code": "ISR",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 70.20176304061842,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 276.11613687873097
+ },
+ {
+   "FIELD1": 62,
+   "Continent": "Asia",
+   "Country": "Japan",
+   "Entity": "Japan",
+   "Code": "JPN",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 729.2489202077107,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 8556.64359317832
+ },
+ {
+   "FIELD1": 63,
+   "Continent": "Asia",
+   "Country": "Jordan",
+   "Entity": "Jordan",
+   "Code": "JOR",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 88.09345553922853,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 245.50575475919499
+ },
+ {
+   "FIELD1": 64,
+   "Continent": "Asia",
+   "Country": "Kazakhstan",
+   "Entity": "Kazakhstan",
+   "Code": "KAZ",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 788.170232408472,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 2644.532039190161
+ },
+ {
+   "FIELD1": 65,
+   "Continent": "Asia",
+   "Country": "Kuwait",
+   "Entity": "Kuwait",
+   "Code": "KWT",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 25.981509575016336,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 107.68261414296492
+ },
+ {
+   "FIELD1": 66,
+   "Continent": "Asia",
+   "Country": "Kyrgyzstan",
+   "Entity": "Kyrgyzstan",
+   "Code": "KGZ",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 129.12019256405972,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 723.7820815856787
+ },
+ {
+   "FIELD1": 67,
+   "Continent": "Asia",
+   "Country": "Laos",
+   "Entity": "Laos",
+   "Code": "LAO",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 30.85079395985455,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 198.55555069632388
+ },
+ {
+   "FIELD1": 68,
+   "Continent": "Asia",
+   "Country": "Lebanon",
+   "Entity": "Lebanon",
+   "Code": "LBN",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 340.16960294723543,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 561.0621093683042
+ },
+ {
+   "FIELD1": 69,
+   "Continent": "Asia",
+   "Country": "Malaysia",
+   "Entity": "Malaysia",
+   "Code": "MYS",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 415.31288218341837,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 1704.3986493151688
+ },
+ {
+   "FIELD1": 70,
+   "Continent": "Asia",
+   "Country": "Maldives",
+   "Entity": "Maldives",
+   "Code": "MDV",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 2.6523493134543634,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 10.20060074129255
+ },
+ {
+   "FIELD1": 71,
+   "Continent": "Asia",
+   "Country": "Mongolia",
+   "Entity": "Mongolia",
+   "Code": "MNG",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 40.129915593430816,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 384.69640166090943
+ },
+ {
+   "FIELD1": 72,
+   "Continent": "Asia",
+   "Country": "Nepal",
+   "Entity": "Nepal",
+   "Code": "NPL",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 94.95908243286628,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 931.2663359354544
+ },
+ {
+   "FIELD1": 73,
+   "Continent": "Asia",
+   "Country": "Oman",
+   "Entity": "Oman",
+   "Code": "OMN",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 18.530980809230147,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 108.18039600947162
+ },
+ {
+   "FIELD1": 74,
+   "Continent": "Asia",
+   "Country": "Pakistan",
+   "Entity": "Pakistan",
+   "Code": "PAK",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 999.5132912957628,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 7424.4734811322105
+ },
+ {
+   "FIELD1": 75,
+   "Continent": "Asia",
+   "Country": "Philippines",
+   "Entity": "Philippines",
+   "Code": "PHL",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 584.9605009609708,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 3498.676730293968
+ },
+ {
+   "FIELD1": 76,
+   "Continent": "Asia",
+   "Country": "Qatar",
+   "Entity": "Qatar",
+   "Code": "QAT",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 8.947623461849101,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 79.8166383461878
+ },
+ {
+   "FIELD1": 77,
+   "Continent": "Asia",
+   "Country": "Saudi Arabia",
+   "Entity": "Saudi Arabia",
+   "Code": "SAU",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 467.0564542600616,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 1171.1919042146285
+ },
+ {
+   "FIELD1": 78,
+   "Continent": "Asia",
+   "Country": "Singapore",
+   "Entity": "Singapore",
+   "Code": "SGP",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 16.85078044282221,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 156.89543872016438
+ },
+ {
+   "FIELD1": 79,
+   "Continent": "Asia",
+   "Country": "Sri Lanka",
+   "Entity": "Sri Lanka",
+   "Code": "LKA",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 194.76255735094983,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 747.8011310248136
+ },
+ {
+   "FIELD1": 80,
+   "Continent": "Asia",
+   "Country": "Syria",
+   "Entity": "Syria",
+   "Code": "SYR",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 242.3008581202809,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 587.5159782169741
+ },
+ {
+   "FIELD1": 81,
+   "Continent": "Asia",
+   "Country": "Tajikistan",
+   "Entity": "Tajikistan",
+   "Code": "TJK",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 34.44053398827414,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 364.98901337924616
+ },
+ {
+   "FIELD1": 82,
+   "Continent": "Asia",
+   "Country": "Thailand",
+   "Entity": "Thailand",
+   "Code": "THA",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 714.8031089917059,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 10245.51015968302
+ },
+ {
+   "FIELD1": 83,
+   "Continent": "Asia",
+   "Country": "Turkey",
+   "Entity": "Turkey",
+   "Code": "TUR",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 524.6834379222873,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 1897.2639591323925
+ },
+ {
+   "FIELD1": 84,
+   "Continent": "Asia",
+   "Country": "Turkmenistan",
+   "Entity": "Turkmenistan",
+   "Code": "TKM",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 66.36807840972399,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 603.3802434329547
+ },
+ {
+   "FIELD1": 85,
+   "Continent": "Asia",
+   "Country": "United Arab Emirates",
+   "Entity": "United Arab Emirates",
+   "Code": "ARE",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 629.440552012664,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 989.9969446282494
+ },
+ {
+   "FIELD1": 86,
+   "Continent": "Asia",
+   "Country": "Uzbekistan",
+   "Entity": "Uzbekistan",
+   "Code": "UZB",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 342.78486690410625,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 2932.5176849721834
+ },
+ {
+   "FIELD1": 87,
+   "Continent": "Asia",
+   "Country": "Vietnam",
+   "Entity": "Vietnam",
+   "Code": "VNM",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 1252.1967225367478,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 10896.60508847491
+ },
+ {
+   "FIELD1": 88,
+   "Continent": "Asia",
+   "Country": "Yemen",
+   "Entity": "Yemen",
+   "Code": "YEM",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 353.6694034848244,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 755.1280173485889
+ },
+ {
+   "FIELD1": 89,
+   "Continent": "Europe",
+   "Country": "Albania",
+   "Entity": "Albania",
+   "Code": "ALB",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 22.988952956570905,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 141.51756187704112
+ },
+ {
+   "FIELD1": 90,
+   "Continent": "Europe",
+   "Country": "Andorra",
+   "Entity": "Andorra",
+   "Code": "AND",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 2.138703060774409,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 4.9966332708251295
+ },
+ {
+   "FIELD1": 91,
+   "Continent": "Europe",
+   "Country": "Armenia",
+   "Entity": "Armenia",
+   "Code": "ARM",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 41.992405407253926,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 236.73146144051063
+ },
+ {
+   "FIELD1": 92,
+   "Continent": "Europe",
+   "Country": "Austria",
+   "Entity": "Austria",
+   "Code": "AUT",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 178.3891227261576,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 649.9019349761068
+ },
+ {
+   "FIELD1": 93,
+   "Continent": "Europe",
+   "Country": "Azerbaijan",
+   "Entity": "Azerbaijan",
+   "Code": "AZE",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 69.24162394117646,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 697.3706746691266
+ },
+ {
+   "FIELD1": 94,
+   "Continent": "Europe",
+   "Country": "Belarus",
+   "Entity": "Belarus",
+   "Code": "BLR",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 403.8204560347239,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 1297.0110135486166
+ },
+ {
+   "FIELD1": 95,
+   "Continent": "Europe",
+   "Country": "Belgium",
+   "Entity": "Belgium",
+   "Code": "BEL",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 275.7258466044248,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 755.419833558204
+ },
+ {
+   "FIELD1": 96,
+   "Continent": "Europe",
+   "Country": "Bosnia and Herzegovina",
+   "Entity": "Bosnia and Herzegovina",
+   "Code": "BIH",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 28.556720929748586,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 235.07793948237077
+ },
+ {
+   "FIELD1": 97,
+   "Continent": "Europe",
+   "Country": "Bulgaria",
+   "Entity": "Bulgaria",
+   "Code": "BGR",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 80.19899296835945,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 644.8103812456661
+ },
+ {
+   "FIELD1": 98,
+   "Continent": "Europe",
+   "Country": "Croatia",
+   "Entity": "Croatia",
+   "Code": "HRV",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 74.5480323921078,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 247.1280867802476
+ },
+ {
+   "FIELD1": 99,
+   "Continent": "Europe",
+   "Country": "Cyprus",
+   "Entity": "Cyprus",
+   "Code": "CYP",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 16.984668729286522,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 39.51281276372446
+ },
+ {
+   "FIELD1": 100,
+   "Continent": "Europe",
+   "Country": "Denmark",
+   "Entity": "Denmark",
+   "Code": "DNK",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 244.2198204851326,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 546.9372566374535
+ },
+ {
+   "FIELD1": 101,
+   "Continent": "Europe",
+   "Country": "Estonia",
+   "Entity": "Estonia",
+   "Code": "EST",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 93.93531756819284,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 214.89979829479628
+ },
+ {
+   "FIELD1": 102,
+   "Continent": "Europe",
+   "Country": "Finland",
+   "Entity": "Finland",
+   "Code": "FIN",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 288.7639004184816,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 659.028086977201
+ },
+ {
+   "FIELD1": 103,
+   "Continent": "Europe",
+   "Country": "France",
+   "Entity": "France",
+   "Code": "FRA",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 1971.3368125606564,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 5367.317449037931
+ },
+ {
+   "FIELD1": 104,
+   "Continent": "Europe",
+   "Country": "Georgia",
+   "Entity": "Georgia",
+   "Code": "GEO",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 76.264204391241,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 462.87835878876035
+ },
+ {
+   "FIELD1": 105,
+   "Continent": "Europe",
+   "Country": "Germany",
+   "Entity": "Germany",
+   "Code": "DEU",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 2018.5928336966165,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 6660.275306557249
+ },
+ {
+   "FIELD1": 106,
+   "Continent": "Europe",
+   "Country": "Greece",
+   "Entity": "Greece",
+   "Code": "GRC",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 197.46059576264759,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 481.1211147833898
+ },
+ {
+   "FIELD1": 107,
+   "Continent": "Europe",
+   "Country": "Hungary",
+   "Entity": "Hungary",
+   "Code": "HUN",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 61.080595091010935,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 370.34673301337176
+ },
+ {
+   "FIELD1": 108,
+   "Continent": "Europe",
+   "Country": "Iceland",
+   "Entity": "Iceland",
+   "Code": "ISL",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 13.189157830083289,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 20.869193514465078
+ },
+ {
+   "FIELD1": 109,
+   "Continent": "Europe",
+   "Country": "Ireland",
+   "Entity": "Ireland",
+   "Code": "IRL",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 178.55906547495832,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 322.3276712671919
+ },
+ {
+   "FIELD1": 110,
+   "Continent": "Europe",
+   "Country": "Italy",
+   "Entity": "Italy",
+   "Code": "ITA",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 689.718524416933,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 5107.3739136247395
+ },
+ {
+   "FIELD1": 111,
+   "Continent": "Europe",
+   "Country": "Latvia",
+   "Entity": "Latvia",
+   "Code": "LVA",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 54.67324122375124,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 275.4629561824366
+ },
+ {
+   "FIELD1": 112,
+   "Continent": "Europe",
+   "Country": "Lithuania",
+   "Entity": "Lithuania",
+   "Code": "LTU",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 128.0127117630008,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 450.19287607627916
+ },
+ {
+   "FIELD1": 113,
+   "Continent": "Europe",
+   "Country": "Luxembourg",
+   "Entity": "Luxembourg",
+   "Code": "LUX",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 19.77499975518908,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 48.3101378894271
+ },
+ {
+   "FIELD1": 114,
+   "Continent": "Europe",
+   "Country": "Malta",
+   "Entity": "Malta",
+   "Code": "MLT",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 7.956520893885491,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 21.152066088963608
+ },
+ {
+   "FIELD1": 115,
+   "Continent": "Europe",
+   "Country": "Moldova",
+   "Entity": "Moldova",
+   "Code": "MDA",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 59.2163913570398,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 701.7515673481436
+ },
+ {
+   "FIELD1": 116,
+   "Continent": "Europe",
+   "Country": "Montenegro",
+   "Entity": "Montenegro",
+   "Code": "MNE",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 16.569051951981475,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 44.428515441929264
+ },
+ {
+   "FIELD1": 117,
+   "Continent": "Europe",
+   "Country": "Netherlands",
+   "Entity": "Netherlands",
+   "Code": "NLD",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 233.4386218840084,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 777.2299029606909
+ },
+ {
+   "FIELD1": 118,
+   "Continent": "Europe",
+   "Country": "Norway",
+   "Entity": "Norway",
+   "Code": "NOR",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 273.931833688795,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 415.08756991724727
+ },
+ {
+   "FIELD1": 119,
+   "Continent": "Europe",
+   "Country": "Poland",
+   "Entity": "Poland",
+   "Code": "POL",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 303.71863211876723,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 2523.0502047075456
+ },
+ {
+   "FIELD1": 120,
+   "Continent": "Europe",
+   "Country": "Portugal",
+   "Entity": "Portugal",
+   "Code": "PRT",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 148.7666817020984,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 676.7184317968332
+ },
+ {
+   "FIELD1": 121,
+   "Continent": "Europe",
+   "Country": "Romania",
+   "Entity": "Romania",
+   "Code": "ROU",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 348.26277096853266,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 3053.841617751438
+ },
+ {
+   "FIELD1": 122,
+   "Continent": "Europe",
+   "Country": "Serbia",
+   "Entity": "Serbia",
+   "Code": "SRB",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 91.31812485723664,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 676.3487002219999
+ },
+ {
+   "FIELD1": 123,
+   "Continent": "Europe",
+   "Country": "Slovakia",
+   "Entity": "Slovakia",
+   "Code": "SVK",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 47.096868261264426,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 450.98155149991015
+ },
+ {
+   "FIELD1": 124,
+   "Continent": "Europe",
+   "Country": "Slovenia",
+   "Entity": "Slovenia",
+   "Code": "SVN",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 27.420658404383968,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 183.7393746745184
+ },
+ {
+   "FIELD1": 125,
+   "Continent": "Europe",
+   "Country": "Spain",
+   "Entity": "Spain",
+   "Code": "ESP",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 826.7495941123436,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 2322.930240633404
+ },
+ {
+   "FIELD1": 126,
+   "Continent": "Europe",
+   "Country": "Sweden",
+   "Entity": "Sweden",
+   "Code": "SWE",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 398.7784539330425,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 714.0670188775966
+ },
+ {
+   "FIELD1": 127,
+   "Continent": "Europe",
+   "Country": "Switzerland",
+   "Entity": "Switzerland",
+   "Code": "CHE",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 201.3189296472019,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 588.7808096226938
+ },
+ {
+   "FIELD1": 128,
+   "Continent": "Europe",
+   "Country": "Ukraine",
+   "Entity": "Ukraine",
+   "Code": "UKR",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 1756.1243886990933,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 10195.716696714746
+ },
+ {
+   "FIELD1": 129,
+   "Continent": "Europe",
+   "Country": "United Kingdom",
+   "Entity": "United Kingdom",
+   "Code": "GBR",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 3011.3839976829167,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 5482.09935172633
+ },
+ {
+   "FIELD1": 130,
+   "Continent": "North America",
+   "Country": "Antigua and Barbuda",
+   "Entity": "Antigua and Barbuda",
+   "Code": "ATG",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 0.9125196783982928,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 4.381435541029808
+ },
+ {
+   "FIELD1": 131,
+   "Continent": "North America",
+   "Country": "Bahamas",
+   "Entity": "Bahamas",
+   "Code": "BHS",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 4.468331483950082,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 20.41170793027717
+ },
+ {
+   "FIELD1": 132,
+   "Continent": "North America",
+   "Country": "Barbados",
+   "Entity": "Barbados",
+   "Code": "BRB",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 1.8253556968497453,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 14.8038093961133
+ },
+ {
+   "FIELD1": 133,
+   "Continent": "North America",
+   "Country": "Belize",
+   "Entity": "Belize",
+   "Code": "BLZ",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 2.1676605297485385,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 18.547148643623725
+ },
+ {
+   "FIELD1": 134,
+   "Continent": "North America",
+   "Country": "Canada",
+   "Entity": "Canada",
+   "Code": "CAN",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 2076.3057588452907,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 4296.742796794342
+ },
+ {
+   "FIELD1": 135,
+   "Continent": "North America",
+   "Country": "Costa Rica",
+   "Entity": "Costa Rica",
+   "Code": "CRI",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 49.22386673804986,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 352.95057898363126
+ },
+ {
+   "FIELD1": 136,
+   "Continent": "North America",
+   "Country": "Cuba",
+   "Entity": "Cuba",
+   "Code": "CUB",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 76.64939432947985,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 726.6145022603133
+ },
+ {
+   "FIELD1": 137,
+   "Continent": "North America",
+   "Country": "Dominica",
+   "Entity": "Dominica",
+   "Code": "DMA",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 1.011963884658952,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 4.255014834587576
+ },
+ {
+   "FIELD1": 138,
+   "Continent": "North America",
+   "Country": "Dominican Republic",
+   "Entity": "Dominican Republic",
+   "Code": "DOM",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 120.71151821526159,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 573.9608538399236
+ },
+ {
+   "FIELD1": 139,
+   "Continent": "North America",
+   "Country": "El Salvador",
+   "Entity": "El Salvador",
+   "Code": "SLV",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 61.69917956192111,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 532.3189002577278
+ },
+ {
+   "FIELD1": 140,
+   "Continent": "North America",
+   "Country": "Grenada",
+   "Entity": "Grenada",
+   "Code": "GRD",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 1.6241168424911774,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 7.061626096917927
+ },
+ {
+   "FIELD1": 141,
+   "Continent": "North America",
+   "Country": "Guatemala",
+   "Entity": "Guatemala",
+   "Code": "GTM",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 356.44962488498,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 1924.8274933770767
+ },
+ {
+   "FIELD1": 142,
+   "Continent": "North America",
+   "Country": "Haiti",
+   "Entity": "Haiti",
+   "Code": "HTI",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 75.38463307051708,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 486.37883518125517
+ },
+ {
+   "FIELD1": 143,
+   "Continent": "North America",
+   "Country": "Honduras",
+   "Entity": "Honduras",
+   "Code": "HND",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 142.98140543634338,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 693.8307464776017
+ },
+ {
+   "FIELD1": 144,
+   "Continent": "North America",
+   "Country": "Jamaica",
+   "Entity": "Jamaica",
+   "Code": "JAM",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 16.65740110571775,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 92.09450992179606
+ },
+ {
+   "FIELD1": 145,
+   "Continent": "North America",
+   "Country": "Mexico",
+   "Entity": "Mexico",
+   "Code": "MEX",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 1363.4378182702471,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 11645.760397098817
+ },
+ {
+   "FIELD1": 146,
+   "Continent": "North America",
+   "Country": "Nicaragua",
+   "Entity": "Nicaragua",
+   "Code": "NIC",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 29.734300411064094,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 405.5525163276752
+ },
+ {
+   "FIELD1": 147,
+   "Continent": "North America",
+   "Country": "Panama",
+   "Entity": "Panama",
+   "Code": "PAN",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 26.144557022287568,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 205.98312431651314
+ },
+ {
+   "FIELD1": 148,
+   "Continent": "North America",
+   "Country": "Saint Lucia",
+   "Entity": "Saint Lucia",
+   "Code": "LCA",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 1.7743279883085392,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 9.203592489085032
+ },
+ {
+   "FIELD1": 149,
+   "Continent": "North America",
+   "Country": "Saint Vincent and the Grenadines",
+   "Entity": "Saint Vincent and the Grenadines",
+   "Code": "VCT",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 1.3874899743442013,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 6.78546915262861
+ },
+ {
+   "FIELD1": 150,
+   "Continent": "North America",
+   "Country": "Trinidad and Tobago",
+   "Entity": "Trinidad and Tobago",
+   "Code": "TTO",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 16.384926257542638,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 75.2928860260605
+ },
+ {
+   "FIELD1": 151,
+   "Continent": "Oceania",
+   "Country": "Australia",
+   "Entity": "Australia",
+   "Code": "AUS",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 1222.5022144094658,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 2870.067680556518
+ },
+ {
+   "FIELD1": 152,
+   "Continent": "Oceania",
+   "Country": "Fiji",
+   "Entity": "Fiji",
+   "Code": "FJI",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 4.3235493566930225,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 30.149536752317093
+ },
+ {
+   "FIELD1": 153,
+   "Continent": "Oceania",
+   "Country": "Kiribati",
+   "Entity": "Kiribati",
+   "Code": "KIR",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 0.6086629945956694,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 5.6364692249714565
+ },
+ {
+   "FIELD1": 154,
+   "Continent": "Oceania",
+   "Country": "Marshall Islands",
+   "Entity": "Marshall Islands",
+   "Code": "MHL",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 0.5987409477186928,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 3.3136152412968056
+ },
+ {
+   "FIELD1": 155,
+   "Continent": "Oceania",
+   "Country": "New Zealand",
+   "Entity": "New Zealand",
+   "Code": "NZL",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 74.68839732283482,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 293.4430017591912
+ },
+ {
+   "FIELD1": 156,
+   "Continent": "Oceania",
+   "Country": "Papua New Guinea",
+   "Entity": "Papua New Guinea",
+   "Code": "PNG",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 35.950943498764474,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 434.8944221097631
+ },
+ {
+   "FIELD1": 157,
+   "Continent": "Oceania",
+   "Country": "Samoa",
+   "Entity": "Samoa",
+   "Code": "WSM",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 0.9199510725641408,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 6.571560283482244
+ },
+ {
+   "FIELD1": 158,
+   "Continent": "Oceania",
+   "Country": "Solomon Islands",
+   "Entity": "Solomon Islands",
+   "Code": "SLB",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 2.226483470474558,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 24.26313811026029
+ },
+ {
+   "FIELD1": 159,
+   "Continent": "Oceania",
+   "Country": "Tonga",
+   "Entity": "Tonga",
+   "Code": "TON",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 0.5834241803551493,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 6.438208762645623
+ },
+ {
+   "FIELD1": 160,
+   "Continent": "Oceania",
+   "Country": "Vanuatu",
+   "Entity": "Vanuatu",
+   "Code": "VUT",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 1.2345246155076641,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 16.834806106344395
+ },
+ {
+   "FIELD1": 161,
+   "Continent": "South America",
+   "Country": "Argentina",
+   "Entity": "Argentina",
+   "Code": "ARG",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 797.9120485309123,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 3771.835754766629
+ },
+ {
+   "FIELD1": 162,
+   "Continent": "South America",
+   "Country": "Bolivia",
+   "Entity": "Bolivia",
+   "Code": "BOL",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 148.3639060449951,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 519.939043379486
+ },
+ {
+   "FIELD1": 163,
+   "Continent": "South America",
+   "Country": "Brazil",
+   "Entity": "Brazil",
+   "Code": "BRA",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 2234.592173524669,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 14738.871073498798
+ },
+ {
+   "FIELD1": 164,
+   "Continent": "South America",
+   "Country": "Chile",
+   "Entity": "Chile",
+   "Code": "CHL",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 129.4299763035638,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 1745.5061837570645
+ },
+ {
+   "FIELD1": 165,
+   "Continent": "South America",
+   "Country": "Colombia",
+   "Entity": "Colombia",
+   "Code": "COL",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 237.15957941181358,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 1924.759990812344
+ },
+ {
+   "FIELD1": 166,
+   "Continent": "South America",
+   "Country": "Ecuador",
+   "Entity": "Ecuador",
+   "Code": "ECU",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 214.63269230002356,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 840.1594766447148
+ },
+ {
+   "FIELD1": 167,
+   "Continent": "South America",
+   "Country": "Guyana",
+   "Entity": "Guyana",
+   "Code": "GUY",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 10.983432398262837,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 62.77309236616786
+ },
+ {
+   "FIELD1": 168,
+   "Continent": "South America",
+   "Country": "Paraguay",
+   "Entity": "Paraguay",
+   "Code": "PRY",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 24.890315224975435,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 263.9793905187176
+ },
+ {
+   "FIELD1": 169,
+   "Continent": "South America",
+   "Country": "Peru",
+   "Entity": "Peru",
+   "Code": "PER",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 384.73286129614127,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 1280.8092465605234
+ },
+ {
+   "FIELD1": 170,
+   "Continent": "South America",
+   "Country": "Suriname",
+   "Entity": "Suriname",
+   "Code": "SUR",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 8.167025020521658,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 45.602281446527044
+ },
+ {
+   "FIELD1": 171,
+   "Continent": "South America",
+   "Country": "Uruguay",
+   "Entity": "Uruguay",
+   "Code": "URY",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 39.40427058826109,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 318.7405615288916
+ },
+ {
+   "FIELD1": 172,
+   "Continent": "South America",
+   "Country": "Venezuela",
+   "Entity": "Venezuela",
+   "Code": "VEN",
+   "Year": 2017,
+   "Deaths - Drug use disorders - Sex: Both - Age: All Ages (Number)": 239.4109860183849,
+   "Deaths - Drug use - Sex: Both - Age: All Ages (Number)": 1722.3691806720233
+ }
+]
